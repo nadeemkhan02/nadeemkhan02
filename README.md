@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Nadeem khan</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h1>Hi 👋, I'm Nadeem khan</h1>
+<h3>A passionate frontend developer from India</h3>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 <img align="right" alt="Coding" width="550"  src="https://camo.githubusercontent.com/4a8945bafa9d8a63b7310168334931cd498d873d3a2d1f0b78377576fbb3b499/68747470733a2f2f776562736974656f6e63616c6c2e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032302f30332f736f6674776172655f646576656c6f706d656e742e676966" />
