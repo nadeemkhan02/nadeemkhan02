@@ -16,9 +16,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/nadeem-khan-3971191a1" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="nadeem-khan-3971191a1" height="30" width="40" /></a>
-<a href="https://instagram.com/_nadeemkhan02" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="_nadeemkhan02" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/techcornertc" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="techcornertc" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/nadeem-khan-3971191a1" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Linkedin.svg/1200px-Linkedin.svg.png" alt="nadeem-khan-3971191a1" height="30" width="30" /></a>
+<a href="https://instagram.com/_nadeemkhan02" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Instagram.svg/1200px-Instagram.svg.png" alt="_nadeemkhan02" height="30" width="30" /></a>
+<a href="https://www.youtube.com/c/techcornertc" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/YouTube_full-color_icon_%282017%29.svg/1280px-YouTube_full-color_icon_%282017%29.svg.png" alt="techcornertc" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
